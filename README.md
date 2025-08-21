@@ -10,3 +10,6 @@ sudo apt install ros-humble-turtlebot3-gazebo
 sudo apt install ros-humble-turtlebot3-navigation2
 ```
 
+Followed Installation:
+https://github.com/bdaiinstitute/vlfm/tree/main
+https://github.com/facebookresearch/habitat-lab/tree/main
