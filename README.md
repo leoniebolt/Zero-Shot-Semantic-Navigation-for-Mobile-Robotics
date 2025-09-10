@@ -15,3 +15,4 @@ https://github.com/bdaiinstitute/vlfm/tree/main
 https://github.com/facebookresearch/habitat-lab/tree/main
 https://github.com/facebookresearch/habitat-sim
 
+installed depthai-ros, vision_opencv, vlfm
