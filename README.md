@@ -1,4 +1,4 @@
-# Coffeebotler
+# Zero-Shot Semantic Navigation for Mobile Robotics
 
 # Installation
 ros humble
